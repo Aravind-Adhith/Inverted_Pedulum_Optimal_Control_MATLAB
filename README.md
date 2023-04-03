@@ -75,7 +75,7 @@ The states were observed and plots can be seen below.
 
 - For Case 3, Kp = 100, Ki = 1, Kd = 50 :
 
-<img src = resources\PID_trial_3.jpg width = 400 >
+<img src = resources\PID_Trial_3.jpg width = 400 >
 
 
 
